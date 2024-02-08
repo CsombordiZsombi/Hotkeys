@@ -1,0 +1,18 @@
+[
+    {
+        "key":"A",
+        "extras":["shift","alt_l"],
+        "action":"test.py hello_world"
+    }
+    ,{
+        "key":"B",
+        "extras":["shift","alt_l"],
+        "action":"find_out_sound_device.py"
+    }
+    ,{
+        "key":"<97>",
+        "extras":["alt_l"],    
+        "action":"play_wav.py sound.wav 7"
+    }
+
+]
